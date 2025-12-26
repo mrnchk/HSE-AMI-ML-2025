@@ -80,7 +80,8 @@
 
 ## 📈 Результаты
 
-| Model |  Accuracy | Test_F1 | Train_Time |
+| Model | Accuracy | Test_F1 | Train_Time |
+|-------|----------|---------|------------|
 | LinearSVC | 0.605187 | 0.581677 | 6.548788 |
 | RandomForest | 0.435159 | 0.400139 | 1.696162 |
 | SGDClassifier | 0.319885 | 0.310419 | 0.372409 |
